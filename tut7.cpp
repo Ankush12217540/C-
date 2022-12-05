@@ -2,7 +2,7 @@
 using namespace std;
 int c=45;
 int main(){
-    // /***BUILD IN DATA TYPE*******
+//     // /***BUILD IN DATA TYPE*******
 //     int a, b, c;
 // cout<<"Enter the value of a:"<<endl;
 // cin>>a;
@@ -10,7 +10,7 @@ int main(){
 // cin>>b;
 // c=a+b;
 // cout<<"The sum is "<<c<<endl;
-// cout<<"the global c is "<<::c;
+// cout<<"the global c is "<<::c<<endl;
 
 
 // // *****FLOAT,DOUBLE AND LONG DOUBLE LITERALS*****
@@ -37,6 +37,7 @@ cout<<"The value of a is "<<float(a)<<endl;
 cout<<"The value of b is "<<(int)b<<endl;
 cout<<"The value of b is "<<int(b)<<endl;
 int c= int(b);
+cout<<c<<endl;
 cout<<"The expression is "<<a+b<<endl;
 cout<<"The expression is "<<a+ int(b)<<endl;
 cout<<"The expression is "<<a+(int)b<<endl;
