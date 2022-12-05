@@ -6,10 +6,14 @@
 using namespace std;
 
 int main(){
-    int a=4, b=5;  
+    int a, b;
    cout<<"operators in c++:"<<endl;
    cout<<"following are operators in c++:"<<endl;
    //Arithmetics operators
+   cout<<"Enter the value of a is: "<<endl;
+   cin>>a;
+   cout<<"Enter the value of b: "<<endl;
+   cin>>b;
    cout<<"followings are Arthemetics operators"<<endl;
    cout<<"The value of a+b is "<<a+b<<endl;
    cout<<"The value of a-b is "<<a-b<<endl;
