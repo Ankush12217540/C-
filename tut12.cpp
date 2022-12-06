@@ -20,7 +20,6 @@ int main(){
     cout<<"The address of b is "<<c<<endl;
     cout<<"The value at address c is "<<*c<<endl;
     cout<<"The value at address value at(value at (c)) is "<<**c<<endl;
-    
-
+   
 return 0;
 }
