@@ -18,7 +18,6 @@ int main(){
 //     } cout<<i<<endl;
 // 
 
-
 //    *** yaha bhi 2 print nahi hoga
 for (int i = 0; i < 40; i++)
 {
@@ -27,6 +26,5 @@ for (int i = 0; i < 40; i++)
         continue;
     }cout<<i<<endl;
 }
-
 return 0; 
 }
