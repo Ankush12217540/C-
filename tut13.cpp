@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int main(){
     //  **** array examples:
     int marks[4]={23,45,56,89};
