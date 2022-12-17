@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 //*** Function prototype
 // type function-name(argument);
 int sum(int a,int b);// ---->Acceptable
