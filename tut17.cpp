@@ -10,6 +10,7 @@ float moneyReceived(int currentMoney, float factor=1.04){     // Default Argueme
     return currentMoney*factor;
 }
 
+
 // CONSTANT ARGUMENT
 int strlen(const char *p){
 
