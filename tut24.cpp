@@ -39,7 +39,6 @@ Employee  harry,rohan,lovish;
     rohan.getData();
     Employee::getCount();
 
-
     lovish.setData();
     lovish.getData();
     Employee::getCount();
