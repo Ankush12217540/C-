@@ -32,6 +32,7 @@ public:
     void display(void);
 };
 
+
 void binary ::read(void)
 {
     cout << "Enter a binary number" << endl;
