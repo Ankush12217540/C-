@@ -10,7 +10,7 @@ class complex{
         a=v1;
         b=v2;
     }
-    
+   
     void setDataBySum( complex o1, complex o2){
         a= o1.a + o2.a ;
         b= o1.b +o2.b;
