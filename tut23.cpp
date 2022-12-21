@@ -20,6 +20,7 @@ cin>>itemPrice[counter];
 counter++;
 }
 
+
 void shop::displayPrice(void){
     for(int i=0; i<counter; i++){
         cout<<"The price of item with Id "<<itemId[i]<<" is "<<itemPrice[i]<<endl;
