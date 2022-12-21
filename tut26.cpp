@@ -33,6 +33,7 @@ int main(){
     c1.setNumber(5,8);
     c1.printNumber();
 
+    
     sum=sumcomplex(c1,c2);
     sum.printNumber();
 return 0;
