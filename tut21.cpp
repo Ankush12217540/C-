@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 class Employee
 {
     private:
@@ -16,6 +17,7 @@ class Employee
         cout<<"The value of e is "<<e<<endl;
     }
 };
+
 
 void Employee :: setData(int a1,int b1,int c1){        //   ""::"--->scope resolution operator
     a=a1;
