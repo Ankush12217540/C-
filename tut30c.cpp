@@ -11,6 +11,7 @@ class Point{
     void displayPoint(){
         cout<<"The Point is ("<<x<<", "<<y<<")"<<endl;
     }
+    
 };
 // Create a function(mk) which takes 2 point objects  and compute the distance
 // between those points
