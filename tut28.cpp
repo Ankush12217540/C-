@@ -25,7 +25,6 @@ void add ( X o1, Y o2){
 }
 
 
-
 int main(){
     X a1;
     a1.setValue(3);
