@@ -28,7 +28,7 @@ void add ( X o1, Y o2){
 int main(){
     X a1;
     a1.setValue(3);
-
+    
     Y b1;
     b1.setValue(5);
     add(a1,b1);
