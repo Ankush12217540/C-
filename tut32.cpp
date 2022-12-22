@@ -12,6 +12,7 @@ simple(int a,int b=9, int c=8){
     data2=b;
     data3=c;
  
+    
 }
 void printData(void);
 };
