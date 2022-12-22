@@ -23,7 +23,6 @@ public:
 };
 
 
-
 complex :: complex(void) // ------->This is default constructor as it takes no parameter 
 {
     a=0;
