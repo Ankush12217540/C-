@@ -31,7 +31,6 @@ NOTE:
  4.Private member are never inherited;
 */
 
-
 // creating a programmer class derived from Employee base class
 class Programmer : public Employee{
     public:
