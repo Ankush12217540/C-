@@ -26,7 +26,6 @@ int Base::getData2()
 {
     return data2;
 }
-
 class Derived : private Base
 { // class is being derived publically
     int data3;
