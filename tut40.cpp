@@ -10,6 +10,7 @@ class Student{
     void get_roll_number(void);
 };
 
+
 void Student::set_roll_number(int r){
     roll_number=r;
 }
