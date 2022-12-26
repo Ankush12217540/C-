@@ -55,6 +55,7 @@ int main(){
     2. A--->B--->C is called Inheritance Path
     */
 
+  
     Result harry;
     harry.set_roll_number(420);
     harry.set_marks(94.0 , 90.0 );
