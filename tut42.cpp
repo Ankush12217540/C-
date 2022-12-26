@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 /* create 2 classes:
   1.SimpleCalcualtor--->Takes input of two number using utility function 
     and perfor +,-,*,/  and display result using another function
