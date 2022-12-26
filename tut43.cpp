@@ -67,6 +67,5 @@ int main()
     D d;
     d.say();
     return 0;
-
     return 0;
 }
