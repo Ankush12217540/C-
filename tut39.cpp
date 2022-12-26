@@ -6,7 +6,7 @@ class Base{
     private:
     int b;
 };
-/* for a p roteted member:
+/* for a proteted member:
                      Public derivation       private derivatio   protected derivation
  1.private member     Not inherited            Not Inherited      Not inherited
  2.protected member   Protected                  Private           Private
