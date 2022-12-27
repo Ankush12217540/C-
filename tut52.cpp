@@ -1,4 +1,4 @@
-           // ARRAY OF OBJECTS USING POINTERS
+                    // ARRAY OF OBJECTS USING POINTERS
 #include<iostream>
 using namespace std;
 
