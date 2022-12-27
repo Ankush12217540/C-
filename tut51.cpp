@@ -1,4 +1,4 @@
-            // POINTER TO OBJECTS AND ARROW OPERATOR
+                           // POINTER TO OBJECTS AND ARROW OPERATOR
 #include <iostream>
 using namespace std;
 class complex
