@@ -1,4 +1,4 @@
-         //INITIALIZATION LIST IN CONSTRUCTOR
+          //INITIALIZATION LIST IN CONSTRUCTOR
 
 #include <iostream>
     using namespace std;
