@@ -1,4 +1,4 @@
-                        /* RUN TIME BINDING : POLYMORPHISM --> VIRTUAL FUNCTION */
+                             /* RUN TIME BINDING : POLYMORPHISM --> VIRTUAL FUNCTION */
  #include<iostream>
 using namespace std;
 class BaseClass{
