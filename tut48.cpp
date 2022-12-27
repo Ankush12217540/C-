@@ -1,4 +1,4 @@
-                    // CODE EXAMPLE OF CONSTRUCTORS IN DERIVED CLASS
+                       // CODE EXAMPLE OF CONSTRUCTORS IN DERIVED CLASS
 #include<iostream>
 using namespace std;
 /*
