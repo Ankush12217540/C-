@@ -1,5 +1,6 @@
 #include<iostream>
 #include<cmath>
+
 using namespace std;
 /* create 2 classes:
   1.SimpleCalcualtor--->Takes input of two number using utility function 
@@ -48,6 +49,7 @@ class ScientificCalculator{
         cout<<"The value of tan(a) is: "<< tan(a)<<endl;
     } 
 
+  
 };
 
 class HybridCalculator : public SimpleCalculator, public ScientificCalculator{
