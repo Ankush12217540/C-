@@ -1,4 +1,4 @@
-           // POINTERS TO DERIVED CLASSES
+                   // POINTERS TO DERIVED CLASSES
 #include<iostream>
 using namespace std;
 class BaseClass{
