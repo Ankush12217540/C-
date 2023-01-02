@@ -2,6 +2,8 @@
 #include<fstream>
 using namespace std;
 
+
+
 int main(){
     ofstream out;
     out.open("sample60.txt ");
