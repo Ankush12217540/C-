@@ -72,7 +72,7 @@ int main(){
     tuts[0]->display();
     tuts[1]->display();
 return 0;
-}
+} 
 /* Rules for Virtual functons
 1.They cannot be static
 2,They are acccesed by object pointer
