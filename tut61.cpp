@@ -5,6 +5,7 @@
 3.ofstream---> derived from fstreambase
 
 ## READ OPERATION:
+
 ifstream in("this.txt");
 string st;
 in>>st;     // just like cin
