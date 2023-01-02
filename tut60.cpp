@@ -1,6 +1,7 @@
 #include<iostream>
 #include<fstream>
 using namespace std;
+
 /*
 The useful classes for working with files in c++ are:
 1.fstreambase
