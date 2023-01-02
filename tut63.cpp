@@ -10,6 +10,7 @@ class Verctor{
     Public:
       --->  vecInt,vecFloat, vecDouble, vecChar  
       
+      
 }
 */
 
