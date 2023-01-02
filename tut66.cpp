@@ -18,6 +18,7 @@ class Ankush{
         cout<<"The value of c is "<<c<<endl;
     }
 };
+
 int main(){
     Ankush<> h(5 ,6.4, 'k');
     h.display();
