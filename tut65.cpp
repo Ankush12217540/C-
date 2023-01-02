@@ -26,5 +26,6 @@ class myClass{
       int main(){
         myClass<char , float> obj('C', 1.8);
         obj.display();
+            
       return 0;
       }
