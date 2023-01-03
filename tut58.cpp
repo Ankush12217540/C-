@@ -82,4 +82,5 @@ return 0;
 5. If a virtual functions is defined in a base class, there is no necessity of redefiningit in the derived class 
 */
 
+
 // Abstract Base class-->kamse se kam ek pure virtual class
