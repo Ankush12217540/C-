@@ -15,6 +15,7 @@ void Display(vector<T> &v) {                      /* 'vector<int>' ek data type 
     }
     cout<<endl;
 }
+
 int main(){
     vector<int> vec1;         //Zero integer length vector   
     vector<char> vec2(4);      // 4 element character vector
