@@ -16,6 +16,7 @@ float funcAverage(T1 a, T2 b){
     return avg;
 }
 
+
 template<class T>
 void swapp(T &a, T &b){
 T temp=a;
