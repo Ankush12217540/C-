@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     //  **** array examples:
+    
     int marks[4]={23,45,56,89};
     int mathmarks[4];
      mathmarks[0]=478;
