@@ -10,6 +10,7 @@ int main(){
 //         break;              // **  loop se exit karwa dega,break karne se pahle code likha tha
 //     }
 
+    
 
 // //      /**** 2 will not be printed
 // for(int i=0;i<40;i++){
