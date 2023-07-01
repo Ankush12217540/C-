@@ -5,7 +5,8 @@ int main(){
     1. for loop
     2.while loop
     3.do-while loop */
-   
+
+    
     
     /* for loop in c++ */
     // int i=1;
