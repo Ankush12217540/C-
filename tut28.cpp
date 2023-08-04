@@ -11,6 +11,7 @@ class X{
     friend void add(X , Y);
 };
 
+
 class Y{
     int num;
     public:
