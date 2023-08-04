@@ -8,6 +8,7 @@ class complex
 {
     int a, b;
 
+
 public:
     // creating a constructor
     // constructor is a special name function with same name as of the class.
