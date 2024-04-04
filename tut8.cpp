@@ -5,8 +5,8 @@ int main(){
     // int a=34;
     // cout<<"The value of a was: "<<a<<endl;
     // a=45;
-    // cout<<"The value of a is: "<<a;
-
+    // cout<<"The value of a is: "<<a; 
+ 
 // ***CONSTANT IN C++
 // const int a=3;
 // cout<<"value of a is: "<<a;
