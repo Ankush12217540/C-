@@ -9,14 +9,14 @@ return c;
 //     int temp=*a;
 //     *a=*b;
 //     *b=temp;
-// }
+// } 
 
 
 
 void swapReferenceVar(int &a,int &b){
     int temp =a;
     a=b;
-    b=temp;
+    b=temp; 
 }
 int main(){
     int a=4,b=5;
