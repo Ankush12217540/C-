@@ -9,7 +9,7 @@ using namespace std;
     //      char favchar;
     //      float salary; 
     // };
-    // int main(){
+    // int main(){ 
     //     struct employee Ankush;
     //     struct employee Harry;
     //     struct employee Ankit;
