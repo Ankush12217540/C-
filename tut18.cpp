@@ -9,7 +9,7 @@ using namespace std;
 //     return n * factorial(n-1);
 // }
 
-// // step by step calculation of factorial:
+// // step by step calculation of factorial: 
 // // factorial(4)= 4* factorial(3);
 // // factorial(4)= 4*3* factorial(2);
 // // factorial(4)= 4*3*2* factorial(1);
