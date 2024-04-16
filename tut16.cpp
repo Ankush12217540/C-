@@ -11,7 +11,7 @@ int sum(int a, int b){
 //   int temp=a;
 //   a=b;
 //   b=temp;
-// }
+// } 
 
 // CALL BY USING REFERENCE POINTER
  void swapPointer(int* a,int* b){
