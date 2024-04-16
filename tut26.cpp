@@ -8,7 +8,7 @@ class complex{
         a=n1;
         b=n2;
     }
-
+ 
 // Below lines means that non member - sumcomplex function is allowed to do anything
 // with my private parts(member)
 
