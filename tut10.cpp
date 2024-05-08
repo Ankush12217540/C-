@@ -9,7 +9,7 @@ int main(){
     
     
     /* for loop in c++ */
-    // int i=1;
+    // int i=1; 
     // cout<<i<<endl;
     // i++;
     // cout<<i<<endl;
