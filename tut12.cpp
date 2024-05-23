@@ -5,7 +5,7 @@ int main(){.
     // what is pointer?----> data type which holds the address of other data types
     int a=3;
     int* b;
-    b=&a;
+    b=&a; 
      
     
     // &------>(address of )operator
