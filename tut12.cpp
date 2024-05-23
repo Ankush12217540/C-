@@ -6,7 +6,7 @@ int main(){
     int a=3;
     int* b;
     b=&a;
-    
+     
     
     // &------>(address of )operator
     cout<<"The address of a is "<<&a<<endl;
