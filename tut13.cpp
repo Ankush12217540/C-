@@ -14,7 +14,7 @@ int main(){
     cout<<mathmarks[1]<<endl;
     cout<<mathmarks[2]<<endl;
     cout<<mathmarks[3]<<endl;
-
+  
  
      cout<<"These are marks"<<endl;
     cout<<marks[0]<<endl;
