@@ -8,7 +8,7 @@ using namespace std;
 }
 float moneyReceived(int currentMoney, float factor=1.04){     // Default Arguement should be always written rightmost side
     return currentMoney*factor;
-}
+} 
 
 
 // CONSTANT ARGUMENT
