@@ -10,7 +10,7 @@ int sum(int a,int b);// ---->Acceptable
 void g(void);  // ----->Acceptable
 // void g(); ---->Acceptable
 
-int main(){
+int main(){ 
     int num1,num2;
     cout<<"Enter first number"<<endl;
     cin>>num1;
